@@ -7,7 +7,7 @@ You can also contact author by sending email to groosha(@)protonmail.com.
 Source code to the lessons is located [here](https://github.com/MasterGroosha/telegram-tutorial).
 
 ## Table of contents
-* [Lesson 1. Writing your first bot](https://gitbook.com)
+* [Lesson 1. Writing your first bot](https://monsterdeveloper.gitbooks.io/writing-bots-for-telegram-on-python/content/chapter1.html)
 
 This book translated by [MonsterDeveloper](https://github.com/MonsterDeveloper) from Russian. Original: https://goo.gl/eRQNAk. Author: [MasterGroosha](https://github.com/MasterGroosha)
 
